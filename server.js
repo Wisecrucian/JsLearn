@@ -2,7 +2,7 @@ var log = require('logger')(module);
 var db = require('./db');
 db.connect();
 
-//TODO @Wisecrucian
+//TODO @Wisecrucianм
 
 var User = require('./user');
 
